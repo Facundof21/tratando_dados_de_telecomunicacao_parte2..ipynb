@@ -1,0 +1,2 @@
+# tratando_dados_de_telecomunicacao_parte2..ipynb
+tratando_dados_de_telecomunicacao_parte2..ipynb
